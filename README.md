@@ -67,11 +67,14 @@ Ready Made NFTs: 0x318c81010D5fC11363f3A3C79Ee26B6EFe8D145B on Base.
 Smart Contract DApp/ Owners: 0x7565243edc01fc490C021B440D326dBbeB824B5F on Base.
 
 **DYOR GitHub 🍩Donuts in the bOWL 🥣:** [`1st Agentic Tree`](https://github.com/madeinathens/agentic-tree/tree/main).
+**RENT NOW 🍩Donuts in the bOWL 🥣:** [`max. SELL 3.30 USDC`](https://opensea.io/item/base/0x318c81010d5fc11363f3a3c79ee26b6efe8d145b/20).
+
 
 This demonstrates a model where verified past human activity becomes a transferable on-chain economic object rather than a static receipt.
 
 ---
 
-Execution: maestro.base.eth: Coinbase Verified on Base.
+ maestro.base.eth: Coinbase Verified on Base.
+**Execution maestro.base.eth:** [`Coinbase Verified on Base`](https://www.base.org/name/maestro)
 
 📜 Copyright © 2012: madeinathens.eth | claytime.eth | nftable.eth | efood.eth | exergy.eth | syntropy.eth | beecoin.eth
